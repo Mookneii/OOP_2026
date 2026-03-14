@@ -1,0 +1,115 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ex11_01",
+      "request": "launch",
+      "mainClass": "Ex11_01",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex10",
+      "request": "launch",
+      "mainClass": "Ex10",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex9",
+      "request": "launch",
+      "mainClass": "Ex9",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex8",
+      "request": "launch",
+      "mainClass": "Ex8",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex7",
+      "request": "launch",
+      "mainClass": "Ex7",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex6",
+      "request": "launch",
+      "mainClass": "Ex6",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex5",
+      "request": "launch",
+      "mainClass": "Ex5",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex4",
+      "request": "launch",
+      "mainClass": "Ex4",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex3",
+      "request": "launch",
+      "mainClass": "Ex3",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex2",
+      "request": "launch",
+      "mainClass": "Ex2",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex",
+      "request": "launch",
+      "mainClass": "Ex",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "type": "java",
+      "name": "Ex1",
+      "request": "launch",
+      "mainClass": "Ex1",
+      "projectName": "Lab2_abaa61d"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/OOP/Lab2",
+      "program": "d:/OOP/Lab2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
