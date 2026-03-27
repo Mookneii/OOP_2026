@@ -1,8 +1,9 @@
 public class Ex6 {
     public static void main(String[] args){
         Calculator c = new Calculator();
-        System.out.println("The factorial of n :");
-         c.factorial(6);
+       
+        System.out.println("The factorial of n : "+  c.factorial(6));
+        
        c.rectangleSurface(5.4, 6);
        c.circleSurface(2.5);
        c.max(5, 23, 12, 6, 7);

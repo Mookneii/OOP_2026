@@ -1,5 +1,6 @@
 public class Ex5 {
     public static void main (String[] args){
+        
         Calculator c = new Calculator();
         System.out.print("Result A + B is: ");
         c.add(5, 3);
@@ -22,15 +23,19 @@ public class Ex5 {
 class Calculator{
    
     int add(int a, int b){
+        System.out.println(a+b);
         return a+b;
     }
     int subtract(int a, int b){
+        System.out.println(a-b);
         return a-b;
     }
     int multiply(int a, int b){
+        System.out.println(a*b);
         return a*b;
     }
     int divide(int a, int b){
+        System.out.println(a/b);
         return a/b;
     }
     public void max(int a, int b){
